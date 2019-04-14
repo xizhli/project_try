@@ -39,7 +39,8 @@ public class Dog {
 
 	// Function to get dog's age
 	public int getAge() {
-		return age;
+		// always return five
+		return 5;
 	}
 	
 	// Function to get dog's weight
